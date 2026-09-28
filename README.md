@@ -1,9 +1,13 @@
-# Relay — Downloads
+# Relay
 
-Dieses Repository ist die öffentliche Download-Ablage für Relay, eine native macOS-App zur Browserauswahl.
+Relay ist eine native macOS-Menüleisten-App, die Links anhand deiner Regeln im passenden Browser öffnet oder dich auswählen lässt.
 
-Hier werden künftig fertige App-Pakete, Änderungsbeschreibungen, Prüfsummen und die Update-Versionsübersicht veröffentlicht. Der Quellcode wird separat privat verwaltet.
+[**Aktuelle Version herunterladen**](https://github.com/li9x/relay-releases/releases/latest)
 
-Voraussetzungen: Apple Silicon und macOS 14 oder neuer.
+Für Apple Silicon ab macOS 14. ZIP entpacken, `Relay.app` in den Ordner „Programme“ kopieren und öffnen. In den Einstellungen kannst du Relay als Standardbrowser setzen. Neue Installationen starten ohne Regeln; bestehende Regeln bleiben bei Updates erhalten.
 
-Der Updatekanal wird derzeit eingerichtet. Es ist noch kein Release in diesem Repository veröffentlicht.
+Ab Version 0.7.0 findest du „Auf Updates prüfen …“ im Menüleistensymbol und in den Einstellungen. Dort kannst du auch tägliche Prüfungen aktivieren. Ältere Versionen müssen einmal manuell aktualisiert werden.
+
+Relay ist derzeit ad hoc signiert und noch nicht notarisiert. macOS kann beim ersten Öffnen eine manuelle Freigabe unter „Datenschutz & Sicherheit“ verlangen.
+
+Dieses öffentliche Repository enthält ausschließlich Downloads und Update-Metadaten. Der Quellcode wird separat privat verwaltet.
