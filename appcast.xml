@@ -9,6 +9,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Updates für Relay</description>
         <language>de</language>
         <item>
+            <title>0.8.1</title>
+            <pubDate>Mon, 28 Sep 2026 15:27:14 +0200</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Du siehst nun auch Regeln und Browser in den Statistiken nach Häufigkeit sortiert – die meistgenutzten stehen im gewählten Zeitraum oben.
+]]></description>
+            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.8.1/Relay-0.8.1-AppleSilicon.zip" length="4497529" type="application/octet-stream" sparkle:edSignature="FMtiSK1v8no4mAZLlOsth3zDZpBAPapTRA+jyba2VobIhG2JBkMsbAiANdLZSVp8T9sDZloYhw0NltOpFAczAA=="/>
+        </item>
+        <item>
             <title>0.8.0</title>
             <pubDate>Mon, 28 Sep 2026 15:00:31 +0200</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -34,29 +45,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.7.1/Relay-0.7.1-AppleSilicon.zip" length="4258433" type="application/octet-stream" sparkle:edSignature="PDMsJT4nNhd2gp5L/FeTLwa6K0qmNPDrb/yWk+q/iHK8dxnih8Fzmbt+lpyLPo/biscuRODxWzT8oa2D0gkPCA=="/>
         </item>
-        <item>
-            <title>0.7.0</title>
-            <pubDate>Mon, 28 Sep 2026 11:07:31 +0200</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Relay kann jetzt direkt nach neuen Versionen suchen und Updates installieren.
-
-- „Auf Updates prüfen …“ im Menüleistensymbol und in den Einstellungen.
-- Auf Wunsch tägliche Prüfungen mit einem unaufdringlichen Hinweis im Menü.
-- Installation und Neustart nach Bestätigung; offene Links werden vorher abgeschlossen.
-- Updatepakete und Updatekanal werden vor der Verwendung auf ihre Signatur geprüft.
-
-Diese Version muss einmal manuell installiert werden. Danach sind Updates direkt in Relay möglich. Deine Regeln und Einstellungen bleiben erhalten.
-
-Für Apple Silicon ab macOS 14. Das Paket ist noch nicht notarisiert.
-]]></description>
-            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.7.0/Relay-0.7.0-AppleSilicon.zip" length="4255200" type="application/octet-stream" sparkle:edSignature="QnwWyox2LLQmElGy3/Wqgv4HQ0detksxqSUgyhg5EIkHi9ZPEvZdpwZ/tYna3Bdf2a4Ak7yEFTD2Y2P3pi8ZDQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: QiJyl23FFAtva2ztpEqDH7Ux2B6+iprpC3oNZNpTD0FXNuv4l0nJDFKtz1oTRz100AjEeDoHbT13v+HKdKyPAw==
-length: 4622
+edSignature: sf6g7SbSwbZYsrBV++fDymVMTFVzF+w9MOYmm0mGtpz3UBk7x6bo/j1nhiYS9SSqOYxDf54Hvji+OMfLZ+MUDg==
+length: 4134
 -->
