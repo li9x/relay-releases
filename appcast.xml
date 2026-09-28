@@ -9,6 +9,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Updates für Relay</description>
         <language>de</language>
         <item>
+            <title>0.7.1</title>
+            <pubDate>Mon, 28 Sep 2026 12:09:46 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- In der Browserliste wird die Einfügemarkierung beim Sortieren jetzt durchgehend an der richtigen Stelle angezeigt.
+- In der Regelliste sind die senkrechte Linie, die Pfeile und der Kreis der Einfügemarkierung sauber zentriert.
+]]></description>
+            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.7.1/Relay-0.7.1-AppleSilicon.zip" length="4258433" type="application/octet-stream" sparkle:edSignature="PDMsJT4nNhd2gp5L/FeTLwa6K0qmNPDrb/yWk+q/iHK8dxnih8Fzmbt+lpyLPo/biscuRODxWzT8oa2D0gkPCA=="/>
+        </item>
+        <item>
             <title>0.7.0</title>
             <pubDate>Mon, 28 Sep 2026 11:07:31 +0200</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -31,6 +43,6 @@ Für Apple Silicon ab macOS 14. Das Paket ist noch nicht notarisiert.
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 2BsTe1tQ88/otnZeuumKYY0P/Wa/L5jlcKF5JleFYOlUGO4vPYFt/tpIQ11OgRtpuSnojC6tzpuUFypZWH/UCQ==
-length: 2003
+edSignature: 8Pd5DB9zz2uHySe82JkRcELlp1lVHfNruE4bboXIQ1sGXoVsDwHSyKYJ9OBdUnKKGLSoUuxM+58N0Wq8MmJfAA==
+length: 3005
 -->
