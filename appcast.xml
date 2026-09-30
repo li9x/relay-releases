@@ -9,6 +9,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Updates für Relay</description>
         <language>de</language>
         <item>
+            <title>0.9.0</title>
+            <pubDate>Wed, 30 Sep 2026 19:16:14 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- You can now use Relay in German, English and Portuguese (Portugal). Relay follows your macOS app language.
+]]></description>
+            <sparkle:releaseNotesLink xml:lang="de" sparkle:edSignature="nnqDXiWj2HR9kBCJ3w9jyYTX2DytKbdKH1DOFOaTZRqdXuksIgcm6e67CTqxfF0C90G/FOKuI8iiiBinYhvtAA==" sparkle:length="358">https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.de.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="en" sparkle:edSignature="+X3977t0YahDONT/0LHWRaooJ1wBz6SxT8T0evSkxho8r9A6g0wFDzKJbRk9BEO/QwrjGqFx79DIVm04zwdSBA==" sparkle:length="344">https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.en.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="pt" sparkle:edSignature="oKOdo23BHQALF92wjlPJvPy0b0hjWE1XN/6YFRZVNR2TXjbWUvPwXhFXxUARyiWG6khwQq9dAxqU1LhHL4s5Bg==" sparkle:length="358">https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.pt.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.zip" length="4537768" type="application/octet-stream" sparkle:edSignature="Mul9ftiRvb4DvoZJbMxA44vTRf5zpwQTgvujf7yqzmEYbC94Fa4QZqT5gPHfPvspY1yZK/LgJ4vyQl1aWwpxAA=="/>
+        </item>
+        <item>
             <title>0.8.1</title>
             <pubDate>Mon, 28 Sep 2026 15:27:14 +0200</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -33,21 +47,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.8.0/Relay-0.8.0-AppleSilicon.zip" length="4491622" type="application/octet-stream" sparkle:edSignature="NP2rbIvtlgx5a3CQft99Hi4xkCw55fVeurrEKMU8MteteUKh2lgoKc4zxvSfG5vishybJZBZuhlrDAKF3mZyCA=="/>
         </item>
-        <item>
-            <title>0.7.1</title>
-            <pubDate>Mon, 28 Sep 2026 12:09:46 +0200</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- In der Browserliste wird die Einfügemarkierung beim Sortieren jetzt durchgehend an der richtigen Stelle angezeigt.
-- In der Regelliste sind die senkrechte Linie, die Pfeile und der Kreis der Einfügemarkierung sauber zentriert.
-]]></description>
-            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.7.1/Relay-0.7.1-AppleSilicon.zip" length="4258433" type="application/octet-stream" sparkle:edSignature="PDMsJT4nNhd2gp5L/FeTLwa6K0qmNPDrb/yWk+q/iHK8dxnih8Fzmbt+lpyLPo/biscuRODxWzT8oa2D0gkPCA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: sf6g7SbSwbZYsrBV++fDymVMTFVzF+w9MOYmm0mGtpz3UBk7x6bo/j1nhiYS9SSqOYxDf54Hvji+OMfLZ+MUDg==
-length: 4134
+edSignature: ts0osb21A6Qg9sKrY6LVhGSH9mSMdD25K6e1KbPZPo7ZbPK0Egl7JxPXNsyyMQ6nnVUw7NngYJxMOFY1HWJnBw==
+length: 4930
 -->
