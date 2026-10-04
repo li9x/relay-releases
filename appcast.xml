@@ -9,6 +9,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Updates für Relay</description>
         <language>de</language>
         <item>
+            <title>0.9.1</title>
+            <pubDate>Sun, 04 Oct 2026 21:56:42 +0200</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- You see the update dialog and native controls in the current macOS design.
+- You can now identify the menu item for opening links from the clipboard by its clipboard icon.
+- You see consistently rounded connection lines to the “All links” node in the overview.
+]]></description>
+            <sparkle:releaseNotesLink xml:lang="de" sparkle:edSignature="VFv/cfuqrecxz3hH45zQ387l88Xb2ulAA5V7YaAMHn8l8V3bGX10VNLKgU+Q/zxbi75QMi1J1RYVZ9vZu+MtDQ==" sparkle:length="529">https://github.com/li9x/relay-releases/releases/download/v0.9.1/Relay-0.9.1-AppleSilicon.de.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="en" sparkle:edSignature="LKeTQbPpjp1nY2zPgkSvKbxSgbRG/z770/6ajyFp44Jcrw5xKESJ0/A2QXo7LKi5yV80GC607YdsCWwfgYh6Bw==" sparkle:length="502">https://github.com/li9x/relay-releases/releases/download/v0.9.1/Relay-0.9.1-AppleSilicon.en.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="pt" sparkle:edSignature="0p2RTfjkDd76msAmtqoBQmxiMN9l0CfRW8v+jp496BoB6/2EiEyr0SsonIm/vOdzg2GJJJXASF8XIPX1ipzsDw==" sparkle:length="537">https://github.com/li9x/relay-releases/releases/download/v0.9.1/Relay-0.9.1-AppleSilicon.pt.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.9.1/Relay-0.9.1-AppleSilicon.zip" length="4537912" type="application/octet-stream" sparkle:edSignature="qFYJfNtUfELa1Dw25owOAPpdTOTdmxRCsFQAVLSuXlcncW9ulue5EE/AnBeUCyGXY0WngNSglC2pu5I4CIMsBA=="/>
+        </item>
+        <item>
             <title>0.9.0</title>
             <pubDate>Wed, 30 Sep 2026 19:16:14 +0200</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -33,23 +49,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.8.1/Relay-0.8.1-AppleSilicon.zip" length="4497529" type="application/octet-stream" sparkle:edSignature="FMtiSK1v8no4mAZLlOsth3zDZpBAPapTRA+jyba2VobIhG2JBkMsbAiANdLZSVp8T9sDZloYhw0NltOpFAczAA=="/>
         </item>
-        <item>
-            <title>0.8.0</title>
-            <pubDate>Mon, 28 Sep 2026 15:00:31 +0200</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Du kannst im neuen Tab „Statistiken“ sehen, wie deine Links von Apps über Regeln zu Browsern gelangen – für 7 Tage, 30 Tage oder insgesamt. Breitere Verbindungen zeigen dir häufig genutzte Wege.
-- Du siehst, wie viele Links Relay verarbeitet und automatisch geöffnet hat und wie viele Kurzlinks aufgelöst wurden. Wähle eine App, Regel oder einen Browser aus, um weitere Details anzusehen.
-- Du entscheidest, ob Relay deine Statistik erfasst, und kannst die Erfassung jederzeit pausieren oder die Statistik zurücksetzen. Deine Tageszähler bleiben als lesbare JSON-Datei auf deinem Mac – ohne URLs oder Linkverläufe.
-- Du kannst über „auf deinem Mac“ in den Fußleisten von Statistiken und Einstellungen die jeweilige Datei im Finder anzeigen. Ein Klick auf die Versionsnummer bringt dich zu den zugehörigen Release Notes.
-]]></description>
-            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.8.0/Relay-0.8.0-AppleSilicon.zip" length="4491622" type="application/octet-stream" sparkle:edSignature="NP2rbIvtlgx5a3CQft99Hi4xkCw55fVeurrEKMU8MteteUKh2lgoKc4zxvSfG5vishybJZBZuhlrDAKF3mZyCA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ts0osb21A6Qg9sKrY6LVhGSH9mSMdD25K6e1KbPZPo7ZbPK0Egl7JxPXNsyyMQ6nnVUw7NngYJxMOFY1HWJnBw==
-length: 4930
+edSignature: spy9AH5AKkddLB+COr30+++1pHIxrseMVV2VlepiaJRScLHzqRKUtxsq1aNxNTBJpVeBx26jrwiuxE2NtuUTDQ==
+length: 5269
 -->
