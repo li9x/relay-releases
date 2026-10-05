@@ -25,6 +25,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:releaseNotesLink xml:lang="en" sparkle:edSignature="Upm5L1gqhU1r9HATRhCbUlCzlt4bOLMxwq4/sUYO9/+5PxkJo6WY/UsBMcTqMgLRhClwJ7msppMu3QL6RJofCg==" sparkle:length="927">https://github.com/li9x/relay-releases/releases/download/v0.10.0/Relay-0.10.0-AppleSilicon.en.md</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="pt" sparkle:edSignature="fERkFyFmMtjO4GWwsLGQ4kDakluFODTE7MlWauvtM5xta7VRoIh+u12BFzon7IylAHAUCGJsuv5jk2+WooRoDg==" sparkle:length="1078">https://github.com/li9x/relay-releases/releases/download/v0.10.0/Relay-0.10.0-AppleSilicon.pt.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.10.0/Relay-0.10.0-AppleSilicon.zip" length="4609183" type="application/octet-stream" sparkle:edSignature="gtyOHfVzqgIU8vqtS0/zZSU9Y77OO9hKFPry1KrmOHYK5pYde4FISRUDImf5tQIuR21KmTrRI2o1P5WJZIiXDw=="/>
+            <sparkle:fullReleaseNotesLink>https://github.com/li9x/relay-releases/releases</sparkle:fullReleaseNotesLink>
         </item>
         <item>
             <title>0.9.1</title>
@@ -41,6 +42,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:releaseNotesLink xml:lang="en" sparkle:edSignature="LKeTQbPpjp1nY2zPgkSvKbxSgbRG/z770/6ajyFp44Jcrw5xKESJ0/A2QXo7LKi5yV80GC607YdsCWwfgYh6Bw==" sparkle:length="502">https://github.com/li9x/relay-releases/releases/download/v0.9.1/Relay-0.9.1-AppleSilicon.en.md</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="pt" sparkle:edSignature="0p2RTfjkDd76msAmtqoBQmxiMN9l0CfRW8v+jp496BoB6/2EiEyr0SsonIm/vOdzg2GJJJXASF8XIPX1ipzsDw==" sparkle:length="537">https://github.com/li9x/relay-releases/releases/download/v0.9.1/Relay-0.9.1-AppleSilicon.pt.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.9.1/Relay-0.9.1-AppleSilicon.zip" length="4537912" type="application/octet-stream" sparkle:edSignature="qFYJfNtUfELa1Dw25owOAPpdTOTdmxRCsFQAVLSuXlcncW9ulue5EE/AnBeUCyGXY0WngNSglC2pu5I4CIMsBA=="/>
+            <sparkle:fullReleaseNotesLink>https://github.com/li9x/relay-releases/releases</sparkle:fullReleaseNotesLink>
         </item>
         <item>
             <title>0.9.0</title>
@@ -55,10 +57,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:releaseNotesLink xml:lang="en" sparkle:edSignature="+X3977t0YahDONT/0LHWRaooJ1wBz6SxT8T0evSkxho8r9A6g0wFDzKJbRk9BEO/QwrjGqFx79DIVm04zwdSBA==" sparkle:length="344">https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.en.md</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="pt" sparkle:edSignature="oKOdo23BHQALF92wjlPJvPy0b0hjWE1XN/6YFRZVNR2TXjbWUvPwXhFXxUARyiWG6khwQq9dAxqU1LhHL4s5Bg==" sparkle:length="358">https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.pt.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.zip" length="4537768" type="application/octet-stream" sparkle:edSignature="Mul9ftiRvb4DvoZJbMxA44vTRf5zpwQTgvujf7yqzmEYbC94Fa4QZqT5gPHfPvspY1yZK/LgJ4vyQl1aWwpxAA=="/>
+            <sparkle:fullReleaseNotesLink>https://github.com/li9x/relay-releases/releases</sparkle:fullReleaseNotesLink>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: gnF22FPYZmm5ju4Ei9a83E7vcCl9ghBq1v6msnQkIas0DZhn9S5rfEJdO5FD/lMOcwctLf3d0fqb/F++kGDwCQ==
-length: 6747
+edSignature: JT7V6kt3W+8YRDM4KA9m/F/m6gMBtGRa+xFr1a1CW6p0rJAtLVB2BPEHIJCCguFg+gRQNyCcqu0zSbf4PmwACQ==
+length: 7110
 -->
