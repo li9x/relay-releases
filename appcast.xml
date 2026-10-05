@@ -9,6 +9,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Updates für Relay</description>
         <language>de</language>
         <item>
+            <title>0.10.0</title>
+            <pubDate>Mon, 05 Oct 2026 22:24:38 +0200</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- You can see duplicate, shadowed and overlapping rules directly in the overview.
+- You can compare related rules together, even when they are far apart in the list. Afterwards, you return to your previous scroll position.
+- You see hints about existing active rules in the link dialog, regardless of the browser you select. You can still create and run a new rule or view the existing rules in the overview.
+- Your first click on an unselected app rule now selects it without immediately opening the app picker. Another click on the name opens the app picker.
+- You now see a hint when a domain entry is invalid. Domain rules require at least one dot and only apply when the entry is valid.
+]]></description>
+            <sparkle:releaseNotesLink xml:lang="de" sparkle:edSignature="RW/XFwylz0Qa0Dxg7j521NJgk6ZWols+K+ClKvN4HQyZFCY5YIl7k+1VmmKetbnX4Ra2thjQVi18MU+aNzgbBg==" sparkle:length="1061">https://github.com/li9x/relay-releases/releases/download/v0.10.0/Relay-0.10.0-AppleSilicon.de.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="en" sparkle:edSignature="Upm5L1gqhU1r9HATRhCbUlCzlt4bOLMxwq4/sUYO9/+5PxkJo6WY/UsBMcTqMgLRhClwJ7msppMu3QL6RJofCg==" sparkle:length="927">https://github.com/li9x/relay-releases/releases/download/v0.10.0/Relay-0.10.0-AppleSilicon.en.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="pt" sparkle:edSignature="fERkFyFmMtjO4GWwsLGQ4kDakluFODTE7MlWauvtM5xta7VRoIh+u12BFzon7IylAHAUCGJsuv5jk2+WooRoDg==" sparkle:length="1078">https://github.com/li9x/relay-releases/releases/download/v0.10.0/Relay-0.10.0-AppleSilicon.pt.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.10.0/Relay-0.10.0-AppleSilicon.zip" length="4609183" type="application/octet-stream" sparkle:edSignature="gtyOHfVzqgIU8vqtS0/zZSU9Y77OO9hKFPry1KrmOHYK5pYde4FISRUDImf5tQIuR21KmTrRI2o1P5WJZIiXDw=="/>
+        </item>
+        <item>
             <title>0.9.1</title>
             <pubDate>Sun, 04 Oct 2026 21:56:42 +0200</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -38,20 +56,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:releaseNotesLink xml:lang="pt" sparkle:edSignature="oKOdo23BHQALF92wjlPJvPy0b0hjWE1XN/6YFRZVNR2TXjbWUvPwXhFXxUARyiWG6khwQq9dAxqU1LhHL4s5Bg==" sparkle:length="358">https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.pt.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.zip" length="4537768" type="application/octet-stream" sparkle:edSignature="Mul9ftiRvb4DvoZJbMxA44vTRf5zpwQTgvujf7yqzmEYbC94Fa4QZqT5gPHfPvspY1yZK/LgJ4vyQl1aWwpxAA=="/>
         </item>
-        <item>
-            <title>0.8.1</title>
-            <pubDate>Mon, 28 Sep 2026 15:27:14 +0200</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- Du siehst nun auch Regeln und Browser in den Statistiken nach Häufigkeit sortiert – die meistgenutzten stehen im gewählten Zeitraum oben.
-]]></description>
-            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.8.1/Relay-0.8.1-AppleSilicon.zip" length="4497529" type="application/octet-stream" sparkle:edSignature="FMtiSK1v8no4mAZLlOsth3zDZpBAPapTRA+jyba2VobIhG2JBkMsbAiANdLZSVp8T9sDZloYhw0NltOpFAczAA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: spy9AH5AKkddLB+COr30+++1pHIxrseMVV2VlepiaJRScLHzqRKUtxsq1aNxNTBJpVeBx26jrwiuxE2NtuUTDQ==
-length: 5269
+edSignature: gnF22FPYZmm5ju4Ei9a83E7vcCl9ghBq1v6msnQkIas0DZhn9S5rfEJdO5FD/lMOcwctLf3d0fqb/F++kGDwCQ==
+length: 6747
 -->
