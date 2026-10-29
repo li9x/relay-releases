@@ -9,6 +9,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Updates für Relay</description>
         <language>de</language>
         <item>
+            <title>0.10.1</title>
+            <pubDate>Thu, 29 Oct 2026 23:02:17 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/li9x/relay-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.10.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Fixed a bug so you can use and dismiss the browser picker in the foreground while your open main window stays in its previous position.
+]]></description>
+            <sparkle:releaseNotesLink xml:lang="de" sparkle:edSignature="82BH2m2Cj/lje2ak/qN8cax+Y51ZpNuC5wjzDc3ThfT99rVKDhOrKoKETCMLi8Wt8gBgonXRG65Lnt5MYC6lCQ==" sparkle:length="412">https://github.com/li9x/relay-releases/releases/download/v0.10.1/Relay-0.10.1-AppleSilicon.de.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="en" sparkle:edSignature="tncsLFgAoC3YyLRrhB/kwkyqihhCTeq9jOjOcwdjtKo+ofp5f9Y7L9KAsYPwGd4n576oTsuqXsBogRKe5CCJAg==" sparkle:length="373">https://github.com/li9x/relay-releases/releases/download/v0.10.1/Relay-0.10.1-AppleSilicon.en.md</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="pt" sparkle:edSignature="JqXCbt5Pe7VkSFcMbegMwCnYySia/nwY7DMe67ZI5Jy7Ut3HY3KeOg5d2trGf4y1MzH3XuVuBJmTg22GnKiaCg==" sparkle:length="420">https://github.com/li9x/relay-releases/releases/download/v0.10.1/Relay-0.10.1-AppleSilicon.pt.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.10.1/Relay-0.10.1-AppleSilicon.zip" length="4588375" type="application/octet-stream" sparkle:edSignature="dBdUWoLiFBMBUi1EN9N+0jVZ7vx/u62pkiB2FlWfYQ6CsriTQeccrz1qREFLnRAhXQSigSkBf+fm0m9n9gI6DQ=="/>
+        </item>
+        <item>
             <title>0.10.0</title>
             <pubDate>Mon, 05 Oct 2026 22:24:38 +0200</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -44,24 +59,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.9.1/Relay-0.9.1-AppleSilicon.zip" length="4537912" type="application/octet-stream" sparkle:edSignature="qFYJfNtUfELa1Dw25owOAPpdTOTdmxRCsFQAVLSuXlcncW9ulue5EE/AnBeUCyGXY0WngNSglC2pu5I4CIMsBA=="/>
             <sparkle:fullReleaseNotesLink>https://github.com/li9x/relay-releases/releases</sparkle:fullReleaseNotesLink>
         </item>
-        <item>
-            <title>0.9.0</title>
-            <pubDate>Wed, 30 Sep 2026 19:16:14 +0200</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[- You can now use Relay in German, English and Portuguese (Portugal). Relay follows your macOS app language.
-]]></description>
-            <sparkle:releaseNotesLink xml:lang="de" sparkle:edSignature="nnqDXiWj2HR9kBCJ3w9jyYTX2DytKbdKH1DOFOaTZRqdXuksIgcm6e67CTqxfF0C90G/FOKuI8iiiBinYhvtAA==" sparkle:length="358">https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.de.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="en" sparkle:edSignature="+X3977t0YahDONT/0LHWRaooJ1wBz6SxT8T0evSkxho8r9A6g0wFDzKJbRk9BEO/QwrjGqFx79DIVm04zwdSBA==" sparkle:length="344">https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.en.md</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="pt" sparkle:edSignature="oKOdo23BHQALF92wjlPJvPy0b0hjWE1XN/6YFRZVNR2TXjbWUvPwXhFXxUARyiWG6khwQq9dAxqU1LhHL4s5Bg==" sparkle:length="358">https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.pt.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/li9x/relay-releases/releases/download/v0.9.0/Relay-0.9.0-AppleSilicon.zip" length="4537768" type="application/octet-stream" sparkle:edSignature="Mul9ftiRvb4DvoZJbMxA44vTRf5zpwQTgvujf7yqzmEYbC94Fa4QZqT5gPHfPvspY1yZK/LgJ4vyQl1aWwpxAA=="/>
-            <sparkle:fullReleaseNotesLink>https://github.com/li9x/relay-releases/releases</sparkle:fullReleaseNotesLink>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: JT7V6kt3W+8YRDM4KA9m/F/m6gMBtGRa+xFr1a1CW6p0rJAtLVB2BPEHIJCCguFg+gRQNyCcqu0zSbf4PmwACQ==
-length: 7110
+edSignature: cRqcw/OnKS21QHZxJJp4h6XPZM1rfzl4DRF3ISSLp/AHEGrvc1IIiDoUhU2GyZ5GXNpI63SVZzxdvFAu3QnyAA==
+length: 7149
 -->
